@@ -20,7 +20,7 @@ class Aplpha
         first.Sumup();   //Since the first class is defined as static , it does not require object to user its method.
 
         // This is the test comments for Github validation.
-
+        //This is second comments
 
 
 
